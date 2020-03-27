@@ -1,7 +1,15 @@
 Customized rule based algorithm for sentiment analysis
+
+
 Web Scraped Data : Nyle shampoo reviews (242)
+
+
 Extracted from 	: Amazon
+
+
 Approach	       : Divide and Conquer problem
+
+
 
 Abstract:
 The customized rule based algorithm focuses on recognition of aspect term and category and classification of emotions (positive, negative, conflict, neutral) in product reviews for the aspect.  So, in this I have propose the model for key phrase extraction, linguistic annotations, recognizing aspects and analyzing the sentiments for the amazon review dataset. 
