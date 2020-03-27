@@ -1,4 +1,4 @@
-Customized rule based algorithm for sentiment analysis
+ #Customized rule based algorithm for sentiment analysis
 Web Scraped Data : Nyle shampoo reviews (242)
 Extracted from 	: Amazon
 Approach	       : Divide and Conquer problem
