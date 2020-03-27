@@ -24,3 +24,6 @@ Problem Statement :
 
 	To combat this problem, customized rule based algorithm for sentiment analysis are necessary. This rule based algorithm can be used to evaluate the people’s sentiment about particular brand or product.
 
+
+Problem is classified into sub problem 1 and sub problem 2 and solution for both problem are taken and concatenated and final output are got .
+
